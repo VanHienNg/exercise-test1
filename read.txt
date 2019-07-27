@@ -1,2 +1,3 @@
 test rebase
 up master 1
+up master 2
